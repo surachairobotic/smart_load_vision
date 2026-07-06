@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+*.so
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Video files (large)
+videos/*
+!videos/.gitkeep
+!videos/*.md
+
+# Models (large)
+models/*
+!models/.gitkeep
+!models/*.md
+
+# Output
+output/*
+!output/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Config
+*.local.conf
