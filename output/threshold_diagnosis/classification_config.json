@@ -1,0 +1,6 @@
+{
+  "motion_max": 12.0,
+  "scene_diff_max": 40.0,
+  "motion_mean": 3.0,
+  "scene_diff_mean": 25.0
+}
